@@ -102,6 +102,15 @@ Give App Store & Google Play Reviews Scraper + AI on Apify app names, store link
 **How can I analyse app reviews with AI?**
 App Store & Google Play Reviews Scraper + AI runs one AI analysis per app over the newest reviews and returns structured lists of bugs, feature requests and critical issues, plus ratings per app version to spot bad releases.
 
+## More from AutomationNation
+
+- [Google Jobs Scraper](https://apify.com/automationnation/google-jobs-scraper) — $2 per 1,000 jobs ($1.50 on paid plans) + $0.03 per search · [GitHub examples](https://github.com/retracn/google-jobs-scraper)
+- [AEO & GEO Tracker — Google AI Overview Citation Checker](https://apify.com/automationnation/aeo-auditor) — $0.04 per keyword ($0.032 on Gold); $0.01 until 16 Oct 2026 · [GitHub examples](https://github.com/retracn/google-ai-overview-tracker)
+- [Google Maps Leads Scraper UK](https://apify.com/automationnation/uk-business-leads) — $0.05 per lead ($0.04 on Gold) · [GitHub examples](https://github.com/retracn/uk-business-leads-google-maps)
+- [UK Companies House Leads — Filing Signals & AI Outreach](https://apify.com/automationnation/companies-house-leads) — $0.008 per lead
+- [Contact Waterfall Enrichment — Emails & Directors](https://apify.com/automationnation/contact-waterfall-enrichment) — $0.015 per company
+- [All Actors and guides](https://retracn.github.io/automationnation-actors/) · [Google Jobs scrapers compared](https://retracn.github.io/automationnation-actors/compare/google-jobs-scrapers/)
+
 ---
 
 This repository holds usage examples. The scraper itself runs on the [Apify platform](https://apify.com/automationnation/app-store-review-miner); you need a free Apify account and API token. Examples are MIT licensed.
